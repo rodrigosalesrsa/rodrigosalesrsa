@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rodrigosalesrsa
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning angular 11
+- 👀 I’m interested in backend development
 - 💞️ I’m looking to collaborate on small projects. 
 - 📫 How to reach me ? By email. 
 
